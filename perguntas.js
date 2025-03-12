@@ -23,8 +23,8 @@ criaCartao(
 
 criaCartao(
     'matematica',
-    'quanto é 150+13?',
-    '163'
+    'quanto é 2x+8=0?',
+    'x=-4'
 )
 
 criaCartao(
@@ -40,8 +40,8 @@ criaCartao(
 
 criaCartao(
     'matematica',
-    'quanto é 150+150?',
-    '300'
+    'quanto é 4!+5!=x?',
+    'x=144'
 )
 
 criaCartao(
