@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'matematica',
-    'quanto é 150+1388?',
-    '1538'
+    'quanto é 5!?',
+    '120'
 )
 
 criaCartao(
