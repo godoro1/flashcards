@@ -1,7 +1,7 @@
 criaCartao(
-    'Portugues',
-    'oque é verbo',
-    'O verbo é a palavra que expressa ações, estados e fenômenos da natureza.'
+    'geral',
+    'a cada quantos anos acontece o ano bisexto?',
+    'O ano bisexto acontece a cada 4 anos.'
 )
 
 criaCartao(
@@ -46,6 +46,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz vida em Inglês?',
+    'Como se diz vida em ingles?',
     'vida em ingles é life'
 )
